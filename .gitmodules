@@ -1,3 +1,6 @@
 [submodule "book-store-react"]
 	path = book-store-react
 	url = https://github.com/christopherrrwong/book-store-react.git
+[submodule "book-store-server"]
+	path = book-store-server
+	url = https://github.com/christopherrrwong/book-store-server.git
