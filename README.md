@@ -13,7 +13,7 @@ Users can place order, view their order history and cancel their orders
 
 ### Executing program
 
-* After cloning the repository, execute `git submodule update --init` in the ***root folder*** to pull files from all submodules.
+* After cloning the repository, execute `git submodule update --init` in the root folder to pull files from all submodules.
 
 1. Refer to the .env.example to set up your .env file after creating the database table.
 2. Run the start.sh file respectively inside the React and server folders.
