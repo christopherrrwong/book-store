@@ -18,7 +18,7 @@ Users can place order, view their order history and cancel their orders
 1. Refer to the .env.example to set up your .env file after creating the database table.
 2. Run the start.sh file respectively inside the React and server folders.
 
-## Review authenticated
+## Review authenticated functions
 
 Since this application does not have a registration function, please remember to log in with the provided information. 
 This will allow you to access authenticated functions such as viewing user info, placing orders, reviewing order history, and canceling orders.
